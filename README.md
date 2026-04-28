@@ -1,39 +1,40 @@
 <div align="center">
 
-```
- ██╗   ██╗ █████╗ ██╗██████╗ ██╗  ██╗ █████╗ ██╗   ██╗
- ██║   ██║██╔══██╗██║██╔══██╗██║  ██║██╔══██╗██║   ██║
- ██║   ██║███████║██║██████╔╝███████║███████║██║   ██║
- ╚██╗ ██╔╝██╔══██║██║██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝
-  ╚████╔╝ ██║  ██║██║██████╔╝██║  ██║██║  ██║ ╚████╔╝
-   ╚═══╝  ╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Vaibhav%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Junior%20Software%20Engineer%20%7C%20MERN%20Stack%20%7C%20JS%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-# Hi 👋, I'm Vaibhav Patel
-### Junior Software Engineer · MERN Stack · JavaScript Enthusiast
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps+🚀;MERN+Stack+Developer;JavaScript+is+my+superpower+⚡;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Building+full-stack+web+apps;⚡+JavaScript+is+my+superpower;🌱+Always+learning%2C+always+shipping;🤠+The+Code+Sheriff+is+in+town)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-patel-209a22277)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhav-dev-91.vercel.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VaibhavPatel_91)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-patel-209a22277)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhav-dev-91.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VaibhavPatel_91)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.vaibhav91@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=VaibhavPatel91&color=58a6ff&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/VaibhavPatel91?label=Followers&style=social)](https://github.com/VaibhavPatel91)
 
 </div>
 
+<br/>
+
 ---
 
-## 🤠 About Me
+## 🧑‍💻 About Me
 
 ```javascript
 const vaibhav = {
-  location: "Ahmedabad, India 🇮🇳",
-  role: "Junior Software Engineer",
-  stack: ["MongoDB", "Express.js", "React", "Node.js"],
-  languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  currentlyBuilding: "Portfolio_v3 — a TypeScript-powered personal site",
-  lookingFor: "Full Stack collaborations & open source contributions",
-  funFact: "I debug with console.log and I'm not ashamed 😄",
+  location  : "Ahmedabad, India 🇮🇳",
+  role      : "Junior Software Engineer",
+  stack     : ["MongoDB", "Express.js", "React", "Node.js"],
+  languages : ["JavaScript", "TypeScript", "HTML", "CSS"],
+  building  : "Portfolio_v3 — TypeScript-powered personal site",
+  seeking   : "Full Stack collabs & open source contributions",
+  funFact   : "I debug with console.log and I'm not ashamed 😄",
 };
 ```
 
@@ -43,31 +44,31 @@ const vaibhav = {
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
@@ -75,14 +76,13 @@ const vaibhav = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaibhavPatel91&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavPatel91&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=VaibhavPatel91&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavPatel91&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VaibhavPatel91&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=VaibhavPatel91&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
 
 </div>
 
@@ -90,20 +90,24 @@ const vaibhav = {
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech | Live |
-|--------|-------------|------|------|
-| 🗞️ **React News App** | Browse & search top stories in real-time | React, JS, NewsAPI | [View →](https://github.com/VaibhavPatel91/React----News_app) |
-| 🛒 **Redux Cart System** | Shopping cart with full Redux Toolkit state management | React, Redux Toolkit | [View →](https://github.com/VaibhavPatel91/ReduxToolkit---Cartsystem) |
-| 🔍 **Search Icon & Save** | Search Iconify icons and save to your database | React, MongoDB | [View →](https://github.com/VaibhavPatel91/Search-Icon-And-Save) |
-| 💼 **Portfolio v3** | My personal portfolio — v3, built in TypeScript | TypeScript, React | [Live →](https://vaibhav-dev-91.vercel.app/) |
+<div align="center">
+
+| 🗂️ Project | 📄 Description | ⚙️ Tech | 🔗 Link |
+|:---:|:---|:---:|:---:|
+| 🗞️ **React News App** | Browse & search real-time top stories | React · JS · NewsAPI | [View →](https://github.com/VaibhavPatel91/React----News_app) |
+| 🛒 **Redux Cart System** | Shopping cart with Redux Toolkit state | React · Redux Toolkit | [View →](https://github.com/VaibhavPatel91/ReduxToolkit---Cartsystem) |
+| 🔍 **Search Icon & Save** | Search Iconify icons, save to database | React · MongoDB | [View →](https://github.com/VaibhavPatel91/Search-Icon-And-Save) |
+| 💼 **Portfolio v3** | Personal portfolio built in TypeScript | TypeScript · React | [Live →](https://vaibhav-dev-91.vercel.app/) |
+
+</div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VaibhavPatel91&theme=github-compact&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavPatel91&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=1f6feb&point=58a6ff" width="100%"/>
 
 </div>
 
@@ -113,17 +117,17 @@ const vaibhav = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VaibhavPatel91&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=VaibhavPatel91&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
 
 </div>
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Dev Quote of the Day
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600"/>
 
 </div>
 
@@ -131,11 +135,6 @@ const vaibhav = {
 
 <div align="center">
 
-### 🤠 "The Code Sheriff is always shipping"
-
-![Profile Views](https://komarev.com/ghpvc/?username=VaibhavPatel91&color=58a6ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/VaibhavPatel91?label=Followers&style=social)](https://github.com/VaibhavPatel91)
-
-*Made with ❤️ and a lot of JavaScript*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&text=🤠%20The%20Code%20Sheriff%20is%20always%20shipping&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
